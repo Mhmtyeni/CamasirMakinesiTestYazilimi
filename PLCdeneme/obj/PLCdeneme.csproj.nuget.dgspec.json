@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tugayo\\Akustik Oda Test Projesi\\AkustikOdaTest\\PLCdeneme\\PLCdeneme.csproj": {}
+  },
+  "projects": {
+    "D:\\tugayo\\Akustik Oda Test Projesi\\AkustikOdaTest\\PLCdeneme\\PLCdeneme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tugayo\\Akustik Oda Test Projesi\\AkustikOdaTest\\PLCdeneme\\PLCdeneme.csproj",
+        "projectName": "PLCdeneme",
+        "projectPath": "D:\\tugayo\\Akustik Oda Test Projesi\\AkustikOdaTest\\PLCdeneme\\PLCdeneme.csproj",
+        "packagesPath": "C:\\Users\\mehmetyen\\.nuget\\packages\\",
+        "outputPath": "D:\\tugayo\\Akustik Oda Test Projesi\\AkustikOdaTest\\PLCdeneme\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehmetyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Guna.Charts.WinForms": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.2.8, )"
+            },
+            "LineChart": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "LiveCharts": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "LiveCharts.WinForms": {
+              "target": "Package",
+              "version": "[0.9.7.1, )"
+            },
+            "MindFusion.Charting": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "MindFusion.Charting.Wpf": {
+              "target": "Package",
+              "version": "[2.2.1.1, )"
+            },
+            "S7netplus": {
+              "target": "Package",
+              "version": "[0.13.0, )"
+            },
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[4.1.33, )"
+            },
+            "Sharp7": {
+              "target": "Package",
+              "version": "[1.1.79, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

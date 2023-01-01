@@ -1,0 +1,141 @@
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.csproj.ResolveComReference.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.Form4.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\EntityFramework.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\Guna.UI2.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\LiveCharts.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\LiveCharts.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Charting.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Charting.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Common.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Gauges.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Gauges.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Licensing.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Pdf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Scripting.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Svg.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Charting.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\MindFusion.Gauges.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\S7.Net.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\ScottPlot.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\ScottPlot.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\Sharp7.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\Sharp7.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\System.ValueTuple.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe.config
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe.manifest
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\TGD TEST YAZILIMI.application
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Release\TGD TEST YAZILIMI.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\TGD TEST YAZILIMI.exe.manifest
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\TGD TEST YAZILIMI.application
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\TGD TEST YAZILIMI.exe
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Release\TGD TEST YAZILIMI.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe.config
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe.manifest
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.application
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\EntityFramework.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Guna.UI2.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Charting.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Charting.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Common.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Gauges.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Gauges.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Licensing.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Pdf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Scripting.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Svg.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Charting.Wpf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Gauges.Wpf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\S7.Net.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\ScottPlot.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\ScottPlot.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Sharp7.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Sharp7.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\System.ValueTuple.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.ResolveComReference.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form4.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.exe.manifest
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.application
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.exe
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.pdb
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe.config
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe.manifest
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.application
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.exe
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\TGD TEST YAZILIMI.pdb
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\EntityFramework.SqlServer.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\EntityFramework.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Guna.Charts.WinForms.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Guna.UI2.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.pdb
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.WinForms.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.WinForms.pdb
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.Wpf.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\LiveCharts.Wpf.pdb
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Charting.WinForms.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Charting.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Common.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Gauges.WinForms.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Gauges.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Licensing.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Pdf.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Scripting.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Svg.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Charting.Wpf.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\MindFusion.Gauges.Wpf.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\S7.Net.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\ScottPlot.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\ScottPlot.WinForms.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Sharp7.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\Sharp7.pdb
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\System.Drawing.Common.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Release\System.ValueTuple.dll
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csprojAssemblyReference.cache
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.ResolveComReference.cache
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form1.resources
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form2.resources
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form3.resources
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Form4.resources
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.Properties.Resources.resources
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.GenerateResource.cache
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.CoreCompileInputs.cache
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.exe.manifest
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.application
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\PLCdeneme.csproj.CopyComplete
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.exe
+D:\tugayo\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Release\TGD TEST YAZILIMI.pdb

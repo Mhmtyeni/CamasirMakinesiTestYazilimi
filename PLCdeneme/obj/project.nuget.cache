@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/1zsO6gLChha6WuUrPmkarXNAdYase/2mqa7n+uoa0rTzy06vdM5nA/mwRQ1Q1EokN5HD2uO7pHwBnElWpA5g==",
+  "success": true,
+  "projectFilePath": "D:\\tugayo\\Akustik Oda Test Projesi\\AkustikOdaTest\\PLCdeneme\\PLCdeneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\guna.charts.winforms\\1.0.2\\guna.charts.winforms.1.0.2.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\guna.ui2.winforms\\2.0.2.8\\guna.ui2.winforms.2.0.2.8.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\linechart\\1.0.1\\linechart.1.0.1.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\livecharts.winforms\\0.9.7.1\\livecharts.winforms.0.9.7.1.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\mindfusion.charting\\4.2.0\\mindfusion.charting.4.2.0.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\mindfusion.charting.wpf\\2.2.1.1\\mindfusion.charting.wpf.2.2.1.1.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\s7netplus\\0.13.0\\s7netplus.0.13.0.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\scottplot\\4.1.33\\scottplot.4.1.33.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\scottplot.winforms\\4.1.33\\scottplot.winforms.4.1.33.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\sharp7\\1.1.79\\sharp7.1.1.79.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\mehmetyen\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

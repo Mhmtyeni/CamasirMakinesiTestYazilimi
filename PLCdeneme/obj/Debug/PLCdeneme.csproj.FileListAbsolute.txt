@@ -1,0 +1,242 @@
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\bin\Debug\PLCdeneme.exe.config
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\bin\Debug\PLCdeneme.exe
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\bin\Debug\PLCdeneme.pdb
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\bin\Debug\S7.Net.dll
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.exe
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.pdb
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Form1.resources
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Form2.resources
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\bin\Debug\Sharp7.dll
+C:\Users\tugayo\source\repos\PLCdeneme\PLCdeneme\bin\Debug\Sharp7.pdb
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\PLCdeneme.exe.config
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\S7.Net.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\Sharp7.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\Sharp7.pdb
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\EntityFramework.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\ZedGraph.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\ZedGraph.WinForms.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\de\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\es\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\it\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\obj\Debug\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\Guna.UI2.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\LiveCharts.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\LiveCharts.pdb
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\PLCdeneme\PLCdeneme\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\PLCdeneme.exe.config
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\EntityFramework.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\Guna.UI2.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\LiveCharts.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\LiveCharts.pdb
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Charting.WinForms.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Charting.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Common.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Gauges.WinForms.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Gauges.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Licensing.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Pdf.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Scripting.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\MindFusion.Svg.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\S7.Net.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\Sharp7.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\Sharp7.pdb
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\ZedGraph.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\ZedGraph.WinForms.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\de\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\es\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\fr\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\hu\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\it\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\ja\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\pt\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\ru\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\sk\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\sv\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\tr\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\zh-cn\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\bin\Debug\zh-tw\ZedGraph.WinForms.resources.dll
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\plc değişim\PLCdeneme\obj\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\PLCdeneme.exe.config
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\EntityFramework.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\Guna.UI2.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\LiveCharts.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\LiveCharts.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Charting.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Charting.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Common.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Gauges.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Gauges.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Licensing.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Pdf.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Scripting.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Svg.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\S7.Net.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\Sharp7.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\Sharp7.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.Form4.resources
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Charting.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\MindFusion.Gauges.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.csproj.ResolveComReference.cache
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\ScottPlot.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\bin\Debug\System.ValueTuple.dll
+C:\Users\tugayo\Desktop\plc grafik\PLCdeneme\obj\Debug\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\PLCdeneme.exe.config
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\EntityFramework.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\Guna.UI2.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\LiveCharts.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\LiveCharts.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Charting.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Charting.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Common.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Gauges.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Gauges.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Licensing.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Pdf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Scripting.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Svg.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Charting.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\MindFusion.Gauges.Wpf.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\S7.Net.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\ScottPlot.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\Sharp7.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\Sharp7.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\bin\Debug\System.ValueTuple.dll
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.csproj.ResolveComReference.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.Form4.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.exe
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.pdb
+C:\Users\tugayo\Desktop\plc grafik - Kopya\PLCdeneme\obj\Debug\PLCdeneme.Form5.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\TGD TEST YAZILIMI.exe.config
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\TGD TEST YAZILIMI.exe.manifest
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\TGD TEST YAZILIMI.application
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\TGD TEST YAZILIMI.exe
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\TGD TEST YAZILIMI.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\EntityFramework.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\Guna.UI2.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\LiveCharts.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\LiveCharts.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Charting.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Charting.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Common.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Gauges.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Gauges.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Licensing.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Pdf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Scripting.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Svg.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Charting.Wpf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\MindFusion.Gauges.Wpf.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\S7.Net.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\ScottPlot.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\Sharp7.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\Sharp7.pdb
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\System.Drawing.Common.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\bin\Debug\System.ValueTuple.dll
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.csprojAssemblyReference.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.csproj.ResolveComReference.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.Form1.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.Form2.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.Form3.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.Form4.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.Properties.Resources.resources
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.csproj.GenerateResource.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.csproj.CoreCompileInputs.cache
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\TGD TEST YAZILIMI.exe.manifest
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\TGD TEST YAZILIMI.application
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\PLCdeneme.csproj.CopyComplete
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\TGD TEST YAZILIMI.exe
+C:\Users\tugayo\Desktop\Akustik Oda Test Projesi\AkustikOdaTest\PLCdeneme\obj\Debug\TGD TEST YAZILIMI.pdb
